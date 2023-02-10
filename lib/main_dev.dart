@@ -1,6 +1,7 @@
-import 'package:codemagic_cicd_flutter/enviroment.dart';
-import 'package:codemagic_cicd_flutter/main_common.dart';
+import 'package:cicd_environment_flutter/main_common.dart';
 
-Future<void> main() async {
-  await mainCommon(Environment.dev);
+void main() {
+  // Dev environment related code...
+
+  mainCommon();
 }
