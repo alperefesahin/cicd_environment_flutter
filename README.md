@@ -1,4 +1,4 @@
-# codemagic_cicd_flutter
+# cicd_environment_flutter
 
 A new Flutter project.
 
